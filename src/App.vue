@@ -1,11 +1,10 @@
 <script>
-import TagsInput from './components/TagsInput.vue'; // @ is an alias to /src
-
-export default {
-  components: {
-    // TagsInput
-  }
-}
+// import TagsInput from './components/TagsInput.vue';
+// export default {
+//   components: {
+//     TagsInput
+//   }
+// }
 </script>
 
 <template>
