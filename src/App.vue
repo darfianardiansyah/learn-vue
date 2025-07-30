@@ -14,6 +14,6 @@
 
 <style>
 h1 {
-  color: blue;
+  color: rgb(145, 145, 255);
 }
 </style>
